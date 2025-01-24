@@ -1,4 +1,4 @@
-# ¡Hola, soy [Alejandro Pérez García]! 🚀
+# ¡Hola, soy Alejandro Pérez García! 🚀
 
 Soy un desarrollador Full Stack JavaScript apasionado por la tecnología y el aprendizaje continuo. Tengo experiencia en el desarrollo de interfaces de usuario utilizando Vue.js y también estoy comenzando mi camino como Android Trainee Mobile App Developer.
 
