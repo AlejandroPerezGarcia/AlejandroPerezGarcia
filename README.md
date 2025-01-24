@@ -1,5 +1,5 @@
 <div align="center" style="background-color:#1e1e2f; padding: 20px; border-radius: 10px; color: #ffffff; font-family: Arial, sans-serif;">
-  <h1 style="color:#ff6f61;">¡Hola, soy [Tu Nombre]! 🚀</h1>
+  <h1 style="color:#ff6f61;">¡Hola, soy Alejandro! 🚀</h1>
   <p style="font-size: 1.2em;">Soy un desarrollador Full Stack JavaScript apasionado por la tecnología, los juegos de cartas y el anime. Disfruto explorar nuevas herramientas y estoy en constante aprendizaje para mejorar mis habilidades.</p>
 </div>
 
@@ -38,8 +38,8 @@
 <div style="text-align: center;">
   <h2 style="color:#ff6f61;">📬 Conéctate conmigo</h2>
   <p>
-    <a href="https://github.com/tuusuario" style="color:#61dafb; text-decoration:none; font-size: 1.1em;">GitHub</a> |
-    <a href="https://www.linkedin.com/in/tuusuario" style="color:#61dafb; text-decoration:none; font-size: 1.1em;">LinkedIn</a>
+    <a href="https://github.com/AlejandroPerezGarcia/AlejandroPerezGarcia" style="color:#61dafb; text-decoration:none; font-size: 1.1em;">GitHub</a> |
+    <a href="https://www.linkedin.com/in/alejandrosperezgarcia/" style="color:#61dafb; text-decoration:none; font-size: 1.1em;">LinkedIn</a>
   </p>
   <p style="color:#ffffff; font-size: 1.1em;">Estoy abierto a colaborar en proyectos interesantes y siempre busco nuevas oportunidades para crecer profesionalmente. ¡No dudes en contactarme!</p>
 </div>
