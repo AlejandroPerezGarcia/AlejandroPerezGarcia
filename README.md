@@ -34,8 +34,8 @@ Cuando no estoy programando, disfruto de:
 
 ## Conéctate conmigo 📚
 
-- **GitHub:** [Tu perfil de GitHub]([https://github.com/AlejandroPerezGarcia])
-- **LinkedIn:** [Tu perfil de LinkedIn]([https://www.linkedin.com/in/alejandrosperezgarcia/])
+- **GitHub:** [Tu perfil de GitHub](https://github.com/AlejandroPerezGarcia)
+- **LinkedIn:** https://www.linkedin.com/in/alejandrosperezgarcia/
 
 Estoy abierto a colaborar en proyectos interesantes y siempre busco nuevas oportunidades para crecer profesionalmente. ¡No dudes en contactarme!
 
