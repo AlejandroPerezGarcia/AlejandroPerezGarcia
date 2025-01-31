@@ -34,7 +34,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas in
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroPerezGarcia&show_icons=true&theme=dark)
 
 ## 🌱 Actualmente aprendiendo
 
@@ -44,8 +44,8 @@ Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas in
 
 ## 📫 ¡Conectemos!
 
-- [LinkedIn](tu_perfil_linkedin)
-- [Portfolio](tu_portfolio)
+- [LinkedIn]([https://www.linkedin.com/in/alejandrosperezgarcia/])
+- [Portfolio]([https://github.com/AlejandroPerezGarcia])
 - 📧 Email: tu@email.com
 
 ```javascript
