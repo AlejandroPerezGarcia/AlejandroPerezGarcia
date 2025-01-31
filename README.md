@@ -44,9 +44,9 @@ Soy un desarrollador Full Stack apasionado por crear soluciones tecnológicas in
 
 ## 📫 ¡Conectemos!
 
-- [LinkedIn]([https://www.linkedin.com/in/alejandrosperezgarcia/])
-- [Portfolio]([https://github.com/AlejandroPerezGarcia])
-- 📧 Email: tu@email.com
+- [LinkedIn](https://www.linkedin.com/in/alejandrosperezgarcia)
+- [Portfolio](https://github.com/AlejandroPerezGarcia)
+- 📧 Email: alejandro8001@gmail.com
 
 ```javascript
 const skills = {
@@ -57,7 +57,7 @@ const skills = {
 ```
 
 ---
-⭐️ From [TU_USUARIO](https://github.com/TU_USUARIO)
+⭐️ From [AlejandroPerezGarcia](https://github.com/AlejandroPerezGarcia)
 
 
 <!--
